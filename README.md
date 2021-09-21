@@ -1,2 +1,0 @@
-# api.zdrastvo.gov.mk
-
